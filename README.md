@@ -14,10 +14,15 @@
 - Tathmini za mwalimu, historia ya mazoezi na grafu ya kujiamini kabla/baada ya kila kipindi.
 - Kusawazisha simu na kompyuta kupitia repo ya siri ya GitHub; backup JSON (na au bila picha); uchapishaji; mwanga/giza.
 
+## Mwalimu na mwanafunzi
+Mfumo unafunguka kama **mwanafunzi**: masomo, alama, mazoezi, majaribio na "Maendeleo yangu". Kitufe cha **🔒 Mwalimu** juu kinafungua hali ya mwalimu kwa PIN (tarakimu 4–8), na kuongeza Tathmini ya vitendo, Ripoti ya mwalimu na Mipangilio na backup. Mara ya kwanza, PIN inawekwa na yeyote anayebonyeza kitufe hicho, kwa hiyo mwalimu aiweke mapema. PIN inasawazishwa kwenye vifaa vyote. Umesahau PIN? Bonyeza "Umesahau PIN?" na uthibitishe kwa token ya GitHub ya kifaa hicho. Mfumo hauna server, hivyo PIN ni kizuizi cha kawaida, si ulinzi kamili.
+
+Ripoti inaonyesha masomo yaliyosomwa (tarehe na mara yaliyofunguliwa), kila jaribio la maswali (majibu aliyochagua na sahihi), maswali yanayokosewa mara nyingi, vipindi vya mazoezi, mambo ya kurudia na utayari. Inachujwa kwa siku 7, 30 au zote, na inachapishwa au kuhifadhiwa kama PDF.
+
 ## Kusawazisha simu na kompyuta
 Maendeleo na picha zako zinahifadhiwa kwenye repo ya **siri** `leontech-data`, si kwenye repo ya umma ya mfumo.
 1. Tengeneza token: GitHub → Settings → Developer settings → Fine-grained tokens → Generate new token. Repository access: **Only select repositories → leontech-data**. Permissions → Repository → **Contents: Read and write**. Weka muda wa kuisha (mfano mwaka 1).
-2. Kwenye mfumo: Maendeleo na backup → "Sawazisha kupitia GitHub" → weka token → "Hifadhi na sawazisha". Rudia kwenye kila kifaa.
+2. Kwenye mfumo (ukiwa umeingia kama mwalimu): Mipangilio na backup → "Sawazisha kupitia GitHub" → weka token → "Hifadhi na sawazisha". Rudia kwenye kila kifaa.
 3. Baada ya hapo mfumo unasawazisha wenyewe unapoufungua na sekunde chache baada ya mabadiliko. Ukiwa offline, utasawazisha ukirudi mtandaoni.
 
 Token inabaki kwenye kifaa husika tu na haiingii kwenye backup. Ukipoteza simu, futa token hiyo kwenye GitHub na utengeneze nyingine. Vifaa viwili vikibadilisha kitu kilekile bila kusawazisha katikati, toleo jipya zaidi linashinda; vipindi vya mazoezi, majaribio na masomo yaliyosomwa huunganishwa kutoka pande zote.
@@ -25,7 +30,7 @@ Token inabaki kwenye kifaa husika tu na haiingii kwenye backup. Ukipoteza simu, 
 ## Kuhamisha maendeleo ya zamani
 1. Fungua mfumo wa zamani katika browser ile uliyotumia.
 2. Fungua Progress na Backup, kisha Export Backup.
-3. Fungua toleo hili; nenda Maendeleo na backup.
+3. Fungua toleo hili, ingia kama mwalimu; nenda Mipangilio na backup.
 4. Chagua faili kwenye Rejesha backup, kisha thibitisha.
 5. Kagua taarifa. Ufaulu wa zamani ubaki historia; mwalimu athibitishe vigezo vya masomo mapya.
 
