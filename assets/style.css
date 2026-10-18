@@ -83,3 +83,7 @@
 .person strong{display:block;color:var(--ink);line-height:1.2}
 .person small{color:var(--muted);font-size:12px}
 @media print{.people .person{border-color:#ccc}}
+.connect-banner{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center;margin-top:0}
+.connect-banner .btn{margin-left:auto}
+.choice .btn{width:100%;justify-content:flex-start;text-align:left;margin-top:12px}
+.choice p{margin:6px 0 0}

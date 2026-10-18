@@ -25,6 +25,7 @@ Ripoti inaonyesha masomo yaliyosomwa (tarehe na mara yaliyofunguliwa), kila jari
 Maendeleo na picha zako zinahifadhiwa kwenye repo ya **siri** `leontech-data`, si kwenye repo ya umma ya mfumo.
 1. Tengeneza token: GitHub → Settings → Developer settings → Fine-grained tokens → Generate new token. Repository access: **Only select repositories → leontech-data**. Permissions → Repository → **Contents: Read and write**. Weka muda wa kuisha (mfano mwaka 1).
 2. Kwenye mfumo (ukiwa umeingia kama mwalimu): Mipangilio na backup → "Sawazisha kupitia GitHub" → weka token → "Hifadhi na sawazisha". Rudia kwenye kila kifaa.
+**Kifaa au browser mpya:** fungua link, bonyeza **🔗 Unganisha kifaa hiki** (ukurasa wa Mwanzo, haihitaji PIN), weka token. Majina, picha za wasifu, PIN ya mwalimu na maendeleo yote yatashuka. Kifaa kinapounganishwa mara ya kwanza, taarifa za GitHub ndizo zinazoshinda, ili kifaa kitupu kisifute chochote.
 3. Baada ya hapo mfumo unasawazisha wenyewe unapoufungua na sekunde chache baada ya mabadiliko. Ukiwa offline, utasawazisha ukirudi mtandaoni.
 
 Token inabaki kwenye kifaa husika tu na haiingii kwenye backup. Ukipoteza simu, futa token hiyo kwenye GitHub na utengeneze nyingine. Vifaa viwili vikibadilisha kitu kilekile bila kusawazisha katikati, toleo jipya zaidi linashinda; vipindi vya mazoezi, majaribio na masomo yaliyosomwa huunganishwa kutoka pande zote.
