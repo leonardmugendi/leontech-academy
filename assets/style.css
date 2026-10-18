@@ -69,3 +69,17 @@
 @media(max-width:1100px){.grid.four{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:760px){.grid.four{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.grid.four .stat{flex-direction:column;align-items:flex-start;gap:8px;padding:14px}.grid.four .stat strong{font-size:22px}.module-report summary{grid-template-columns:1fr}.header-right .badge{display:none}.chart-table{font-size:12px}}
 @media print{.no-print,.role-btn{display:none!important}.grid.four{display:grid!important;grid-template-columns:repeat(4,1fr)}.grid.two{display:grid!important;grid-template-columns:1fr 1fr;gap:12px}details>summary{list-style:none}.qa{break-inside:avoid}}
+.avatar{background-size:cover;background-position:center;flex-shrink:0;font-weight:700}
+.avatar.has-photo{color:transparent}
+.avatar.big{width:64px;height:64px;border-radius:50%;display:grid;place-items:center;background-color:var(--soft);color:var(--green);font:600 26px Georgia,serif;border:2px solid var(--surface);box-shadow:0 0 0 1px var(--line)}
+.avatar.big.has-photo{color:transparent}
+.profile-row{display:flex;gap:16px;align-items:center;margin-bottom:6px}
+.profile-row label.field{margin-bottom:0}
+.profile-card input[type=file]{display:none!important}
+.profile-card label.btn{cursor:pointer}
+.people{display:flex;gap:14px;flex-wrap:wrap;margin:4px 0 18px}
+.person{display:flex;gap:12px;align-items:center;background:var(--surface);border:1px solid var(--line);border-radius:40px;padding:6px 18px 6px 6px}
+.person .avatar.big{width:48px;height:48px;font-size:20px}
+.person strong{display:block;color:var(--ink);line-height:1.2}
+.person small{color:var(--muted);font-size:12px}
+@media print{.people .person{border-color:#ccc}}

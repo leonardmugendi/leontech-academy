@@ -17,6 +17,8 @@
 ## Mwalimu na mwanafunzi
 Mfumo unafunguka kama **mwanafunzi**: masomo, alama, mazoezi, majaribio na "Maendeleo yangu". Kitufe cha **🔒 Mwalimu** juu kinafungua hali ya mwalimu kwa PIN (tarakimu 4–8), na kuongeza Tathmini ya vitendo, Ripoti ya mwalimu na Mipangilio na backup. Mara ya kwanza, PIN inawekwa na yeyote anayebonyeza kitufe hicho, kwa hiyo mwalimu aiweke mapema. PIN inasawazishwa kwenye vifaa vyote. Umesahau PIN? Bonyeza "Umesahau PIN?" na uthibitishe kwa token ya GitHub ya kifaa hicho. Mfumo hauna server, hivyo PIN ni kizuizi cha kawaida, si ulinzi kamili.
 
+**Wasifu:** mwalimu anaweka jina na picha yake kwenye Mipangilio na backup (anaweza pia kurekebisha wasifu wa mwanafunzi). Mwanafunzi anaweka jina na picha yake chini ya "Maendeleo yangu". Picha za wasifu zinakatwa kuwa mraba, zinaonekana pembeni ya menyu na juu ya ripoti, na zinasawazishwa kwenye vifaa vyote.
+
 Ripoti inaonyesha masomo yaliyosomwa (tarehe na mara yaliyofunguliwa), kila jaribio la maswali (majibu aliyochagua na sahihi), maswali yanayokosewa mara nyingi, vipindi vya mazoezi, mambo ya kurudia na utayari. Inachujwa kwa siku 7, 30 au zote, na inachapishwa au kuhifadhiwa kama PDF.
 
 ## Kusawazisha simu na kompyuta
